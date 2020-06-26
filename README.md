@@ -1,4 +1,4 @@
-# drone-go-git-test
+# twitter sentiment analysis with AWS
 
 [![Build Status](https://cloud.drone.io/api/badges/lukechn99/mmm-twitter-sentiment/status.svg)](https://cloud.drone.io/lukechn99/mmm-twitter-sentiment)
 
